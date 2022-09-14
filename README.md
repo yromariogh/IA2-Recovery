@@ -21,7 +21,7 @@ Yesid Romario Gualdrón Hurtado (2190052), Ruben Dario Rodríguez Moreno (218196
          https://drive.google.com/drive/folders/1vPGg8IWcvUWeUlDdyLtlFLgO_l2vJLuf?usp=sharing 
          
 ## Modelos:
-  * Se hizo uso de redes UNet, Convolutional Autoencoders, RNNs y CNNs.
+  * Se hizo uso de arquitecturas UNet, Convolutional Autoencoders, RNNs y CNNs.
 
 ## Enlaces:
   * Codigo: https://colab.research.google.com/drive/
