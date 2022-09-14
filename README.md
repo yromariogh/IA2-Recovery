@@ -23,6 +23,6 @@ Yesid Romario Gualdrón Hurtado (2190052), Ruben Dario Rodríguez Moreno (218196
   * Se hizo uso de arquitecturas UNet, Convolutional Autoencoders, RNNs y CNNs.
 
 ## Enlaces:
-  * Codigo: https://colab.research.google.com/drive/
-  * Video: https://www.youtube.com/watch?v=
+  * Codigo: Notebooks en repositorio
+  * Video: https://youtu.be/_18skgkLT_I
   * Repositorio: https://github.com/yromariogh/IA2-Recovery
