@@ -1,11 +1,11 @@
 
-![alt text](https://github.com/yromariogh/IA2-Recovery/blob/main/banner.png)
-
+<center> 
+<img src="https://raw.githubusercontent.com/yromariogh/IA2-Recovery/banner.png" width="800px" height="300px">
+</center>
 # Ajuste de la calibración durante la recuperación en el sistema óptico CASSI
 
 ## Integrantes:
-  * Yesid Romario Gualdrón Hurtado - 2190052
-  * Ruben Dario Rodríguez Moreno - 2181968
+Yesid Romario Gualdrón Hurtado (2190052), Ruben Dario Rodríguez Moreno (2181968), Julian Garcia (218...)
   
 ## Objetivo principal:
   * Reconstrucción de imágenes espectrales capturadas con el sistema óptico CASSI considerando el desajuste propio del hardware, mediante redes neuronales profundas.
@@ -22,7 +22,7 @@
          https://drive.google.com/drive/folders/1vPGg8IWcvUWeUlDdyLtlFLgO_l2vJLuf?usp=sharing 
          
 ## Modelos:
-  * Se hizo uso de redes UNet, Convolutional Autoencoders, RNNs y CNNs.
+  * Se hizo uso de arquitecturas UNet, Convolutional Autoencoders, RNNs y CNNs.
 
 ## Enlaces:
   * Codigo: https://colab.research.google.com/drive/
