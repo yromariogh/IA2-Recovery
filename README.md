@@ -4,8 +4,7 @@
 # Ajuste de la calibración durante la recuperación en el sistema óptico CASSI
 
 ## Integrantes:
-  * Yesid Romario Gualdrón Hurtado - 2190052
-  * Ruben Dario Rodríguez Moreno - 2181968
+Yesid Romario Gualdrón Hurtado (2190052), Ruben Dario Rodríguez Moreno (2181968), Julian Garcia (218...)
   
 ## Objetivo principal:
   * Reconstrucción de imágenes espectrales capturadas con el sistema óptico CASSI considerando el desajuste propio del hardware, mediante redes neuronales profundas.
