@@ -1,5 +1,5 @@
 
-![alt text](https://github.com/yromariogh/IA2-Recovery/blob/main/banner.png)
+![Banner](https://github.com/yromariogh/IA2-Recovery/banner.png)
 
 # Ajuste de la calibración durante la recuperación en el sistema óptico CASSI
 
