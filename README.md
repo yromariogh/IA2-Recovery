@@ -26,3 +26,4 @@ Yesid Romario Gualdrón Hurtado (2190052), Ruben Dario Rodríguez Moreno (218196
   * Codigo: Notebooks en repositorio
   * Video: https://youtu.be/_18skgkLT_I
   * Repositorio: https://github.com/yromariogh/IA2-Recovery
+  * Diapositivas: https://correouisedu-my.sharepoint.com/:p:/g/personal/yesid2190052_correo_uis_edu_co/ERMF25HOtnBDrgFr06yiJzUB90apcaVJQVoSRjruaWVBIg?e=AilP59
